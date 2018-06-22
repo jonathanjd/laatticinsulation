@@ -1,0 +1,83 @@
+.alignright {
+    display: block;
+    float: none;
+    margin: 0 auto 10px;
+    text-align: center;
+    width: auto;
+}
+
+.alignleft {
+    display: block;
+    float: none;
+    margin: 0 auto 10px;
+    text-align: center;
+    width: auto;
+}
+
+.container {
+    width: 96%;
+}
+
+.banner img, .banner {
+    height: auto;
+}
+
+.banner-content {
+    display: none;
+}
+
+.banner .slick-prev, .banner .slick-next {
+    background-size: 70%;
+    top: 54%;
+}
+
+.remolding-slider .slick-prev, .remolding-slider .slick-next {
+    background-size: 70%;
+    top: 54%;
+}
+
+.remolding-slider .slick-prev {
+    background-position: left top;
+}
+
+.remolding-slider .slick-next {
+    background-position: right top;
+}
+
+.staff-row {
+    text-align: center;
+}
+
+.staff-row .img-col {
+    float: none;
+}
+
+.banner img, .banner {
+    display: none;
+    height: auto;
+}
+
+.home-page-tabs {
+    padding: 40px 20px;
+}
+
+.kitchen-projects {
+    float: left;
+    width: 50%;
+}
+
+.insured-blog-inner .right-collume {
+    display: block;
+}
+
+.insured-blog-inner .map-address {
+    width: 100%;
+}
+
+.quote-popup {
+    padding: 20px;
+}
+
+.quote-popup iframe {
+    max-width: 100%;
+}

@@ -1,0 +1,156 @@
+.container {
+    width: 750px;
+}
+
+.banner-content {
+    display: none;
+}
+
+.get-started-form .gform_wrapper li {
+    margin: 0 0 15px;
+    width: 100%;
+}
+
+.get-started-form .gform_wrapper li#field_1_7 {
+    position: static;
+}
+
+.get-started-form .col-md-4 {
+    border-left: 0 none;
+    padding: 60px 0;
+}
+
+.finished-projects .img-col img {
+    width: 100%;
+}
+
+.insured-blog .col {
+    float: left;
+    margin: 0 0 20px;
+    padding: 0;
+    width: 100%;
+}
+
+.insured-blog .left-collume .img-block {
+    float: right;
+    position: static;
+    width: auto;
+}
+
+.home-page-tabs .resp-tab-content {
+    position: relative;
+    margin: 0;
+}
+
+.insured-blog .left-collume {
+    border-bottom: 2px solid #88c2c8;
+    padding-bottom: 20px !important;
+    border-right: 0 none;
+}
+
+.finished-projects .slick-dots {
+    bottom: -45px;
+}
+
+.we-moved {
+    padding: 20px 0;
+}
+
+.move-discription {
+    display: block;
+    text-align: center;
+}
+
+.move-discription .title-col {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0 0 20px;
+}
+
+.vertical-align {
+    align-items: center;
+    display: block;
+    text-align: center;
+}
+
+.full-video {
+    cursor: pointer;
+    margin: 40px 0 0;
+}
+
+.get-started-form .col-md-8 {
+    border-right: 0;
+}
+
+.banner-content {
+    margin: 112px auto;
+    max-width: 560px;
+}
+
+.insured-blog .left-collume .img-block {
+    margin: 20px 0 0;
+    position: static;
+    width: auto;
+}
+
+.insured-blog {
+    text-align: center;
+}
+
+.social-share .schedule-consult {
+    float: left;
+    padding: 0 0 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.social-links {
+    display: block;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+
+.logo-sec img {
+    display: table;
+    float: none;
+    margin: 0 auto 30px;
+    text-align: center;
+}
+
+.logo-sec {
+    float: left;
+    width: 100%;
+}
+
+.footer-title {
+    text-align: center;
+}
+
+.address {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+
+.quick-links {
+    float: left;
+    margin: 30px 0;
+    width: 100%;
+}
+
+.quick-links ul li {
+    margin: 0;
+    padding: 0 0 15px;
+    text-align: center;
+}
+
+.footer-bottom .text-left, .footer-bottom .text-right {
+    text-align: center;
+}
+
+#input_2_6 iframe {
+    left: 0px;
+    position: relative;
+    transform: scale(1);
+}

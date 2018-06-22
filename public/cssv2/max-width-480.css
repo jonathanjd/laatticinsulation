@@ -1,0 +1,34 @@
+.sticky-in {
+    width: 100%;
+}
+
+.banner-content {
+    display: none;
+}
+
+.insured-blog .left-collume .img-block {
+    display: table;
+    margin: 20px auto 0;
+    position: static;
+    right: 0;
+    width: 100%;
+}
+
+.product-gallery .col-xs-6 {
+    width: 100%;
+}
+
+.design-col .img-col img {
+    height: auto;
+    width: 100%;
+}
+
+.kitchen-projects {
+    width: 100%;
+}
+
+.page-template-template-design_studio .content-col img {
+    display: table;
+    float: none;
+    margin: 0 auto 20px;
+}
